@@ -5,8 +5,8 @@
  -Create a when2meet link ranging a single week (Sunday to Saturday): <https://www.when2meet.com>
  -Get people to fill it out
  -Get an OpenAI key: <https://platform.openai.com/login?launch>
- -Go here: <https://huggingface.co/spaces/ryankkien/chat2meet>
- -Alternatively you can run the app.py through your terminal
+ -Run app.py
+ -Click on the locally hosted site
 
 To Do:
 -Allow more flexibility in links
